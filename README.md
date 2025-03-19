@@ -37,6 +37,8 @@ This Vivado-based project serves as an interactive tool for beginners to explore
 
 Showcases the tool in action, highlighting how switch toggles and button presses reflect on the seven-segment display.
 
+https://github.com/user-attachments/assets/426fe5f3-1c95-45d3-8e54-0584ca920179
+
 ## Circuit Design
 
 A system-level block diagram (image) illustrates how the modules interface to provide seamless binary-to-decimal conversion and display.
